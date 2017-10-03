@@ -1,2 +1,1 @@
-"# NDSJ" 
-"# NDSJ" 
+Hey boiz
