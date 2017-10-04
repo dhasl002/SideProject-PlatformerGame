@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+oppum gangnarm stole <<<<<<< HEAD
 "# NDSJ" 
 "# NDSJ" 
 
