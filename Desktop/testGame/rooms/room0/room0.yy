@@ -263,7 +263,11 @@
             "id": "d857e867-845c-44d3-b46d-4a1d701bc70c",
             "animationFPS": 15,
             "animationSpeedType": "0",
+<<<<<<< HEAD
             "colour": { "Value": 4283039718 },
+=======
+            "colour": { "Value": 4294967295 },
+>>>>>>> Sean's-Branch
             "depth": 300,
             "grid_x": 32,
             "grid_y": 32,
