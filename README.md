@@ -6,6 +6,7 @@ this is a test
 oppum gangnarm stole <<<<<<< HEAD
 "# NDSJ" 
 "# NDSJ" 
+<<<<<<< HEAD
 
 "hello"
 =======
@@ -21,3 +22,5 @@ poopy
 "# NDSJ" 
 "# NDSJ" 
 >>>>>>> parent of a035ef5... dumb commit
+=======
+>>>>>>> parent of f5aba3a... j
