@@ -1,8 +1,8 @@
 {
-    "id": "2848930e-a6b6-4c97-8be9-86399d0dc0b9",
+    "id": "b403781f-cb88-42e7-8b4c-205f1e79e33f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "smallWall",
+    "name": "o_spike",
     "eventList": [
         
     ],
@@ -22,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "c9301829-9e00-48b5-93bb-2d2730e33004",
+    "spriteId": "e62bb908-ae55-437c-a56a-8ed1de137b49",
     "visible": true
 }
