@@ -6,6 +6,8 @@
     "children": [
         "c9301829-9e00-48b5-93bb-2d2730e33004",
         "6564a810-3225-45aa-9d53-205d554f4c87",
+        "567b4af6-414a-4211-aa6a-c1e4880c90d1",
+        "35b0f90c-2706-41de-bb3d-6de6e192f625",
         "02d5a53a-b476-4d36-b276-c70bf14fe5aa",
         "2f4d748b-5125-45f0-99da-7842dde22be5",
         "e3a82cf1-4e1a-46a7-a4b3-d873ba3bb6b6",
@@ -14,6 +16,7 @@
         "93db5d4a-b0bb-4ff0-ab52-6e5fe85b1ba6",
         "6afbee9a-0844-4fdc-b723-5b92fad17124",
         "07580a17-b44c-463e-bb9b-318f3a212bed",
+<<<<<<< HEAD
 <<<<<<< HEAD
         "11ee932b-77f8-494c-a00a-5882bd61627e",
         "dc5271da-c574-4df6-ad7b-ea2540aed99a",
@@ -29,6 +32,10 @@
         "8b88e785-4406-4d80-ae7a-611c2d6c6dd6",
         "cb6df751-bf19-4e6d-a53f-96a9d3ec30fa"
 >>>>>>> 1006eb4ede71ff31548218b4ee5b0878f0bea719
+=======
+        "c4d85ece-939a-49a1-9191-1b2d54dfaa1d",
+        "8b88e785-4406-4d80-ae7a-611c2d6c6dd6"
+>>>>>>> parent of ffa7a56... ground blocks
     ],
     "filterType": "GMSprite",
     "folderName": "sprites",
