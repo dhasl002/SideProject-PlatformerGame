@@ -322,7 +322,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
             "Key": "c9317e8d-3ef4-4d87-bd6d-d8a21a48658a",
 =======
             "Key": "cb6df751-bf19-4e6d-a53f-96a9d3ec30fa",
@@ -347,10 +346,6 @@
 >>>>>>> parent of ffa7a56... ground blocks
             "Value": {
 <<<<<<< HEAD
-=======
-            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
-            "Value": {
->>>>>>> parent of ffa7a56... ground blocks
                 "id": "4e367609-537e-430a-8096-27f8ad3710a4",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
@@ -365,7 +360,6 @@
             }
         },
         {
-<<<<<<< HEAD
 =======
                 "id": "80177335-7e75-4187-aade-c86631c13ab0",
                 "resourcePath": "views\/d9ca09f4-6f89-4226-a77c-d81740b31ac1.yy",
@@ -373,8 +367,6 @@
             }
         },
         {
->>>>>>> parent of ffa7a56... ground blocks
-=======
 >>>>>>> parent of ffa7a56... ground blocks
             "Key": "e3a82cf1-4e1a-46a7-a4b3-d873ba3bb6b6",
             "Value": {
