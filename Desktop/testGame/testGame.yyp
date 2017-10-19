@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "37ea9663-6f0f-45be-a241-9bce1dd18a43",
+            "Value": {
+                "id": "7bbc5754-8930-4adb-827c-46aa3a9b5f9d",
+                "resourcePath": "objects\\object6\\object6.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "39ff1d4f-86e3-4f51-9ab6-2bf4797e33e8",
             "Value": {
                 "id": "f8f5d8d2-8196-49f4-835f-82aa898a2328",
@@ -247,6 +255,14 @@
             }
         },
         {
+            "Key": "8b88e785-4406-4d80-ae7a-611c2d6c6dd6",
+            "Value": {
+                "id": "af75f10a-3a24-4cb3-8117-e864f7966777",
+                "resourcePath": "sprites\\mountains1\\mountains1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "93db5d4a-b0bb-4ff0-ab52-6e5fe85b1ba6",
             "Value": {
                 "id": "1ae8c8f8-6a82-404c-896f-d23a3552c74b",
@@ -263,11 +279,27 @@
             }
         },
         {
+            "Key": "964a2474-fbda-4bb1-b32f-484bcb1859f8",
+            "Value": {
+                "id": "3b59be26-607c-4955-a12a-ac8f8d345fcb",
+                "resourcePath": "objects\\object61\\object61.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b22a2c9f-eb9a-47aa-a1c2-5b56adcd6310",
             "Value": {
                 "id": "7df4fc89-e045-45bd-8bee-da2dd032a4f0",
                 "resourcePath": "objects\/o_camera\/o_camera.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c4d85ece-939a-49a1-9191-1b2d54dfaa1d",
+            "Value": {
+                "id": "a1c775bc-ddb4-4346-b1be-970bd49217c6",
+                "resourcePath": "sprites\\mountains\\mountains.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
