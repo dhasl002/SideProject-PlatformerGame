@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "151bf3d8-0f95-4454-83fc-e821d307d8d4",
+            "Value": {
+                "id": "6a5fa5dc-f918-47f8-9d58-9efe3800e450",
+                "resourcePath": "objects\\face\\face.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2687ef32-63cd-4067-9d00-68743cfe2db0",
             "Value": {
                 "id": "bf458e54-9389-4389-a3a6-21bbc353b26e",
