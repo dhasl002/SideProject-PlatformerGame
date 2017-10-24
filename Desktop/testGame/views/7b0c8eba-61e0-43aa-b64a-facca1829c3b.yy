@@ -10,7 +10,11 @@
         "2ca7954d-58d8-4e55-92a5-4097a7c2fa93",
         "151bf3d8-0f95-4454-83fc-e821d307d8d4",
         "42306420-6445-49e5-b48b-8f2817d666ca",
+<<<<<<< HEAD
         "81f637af-ffad-4e45-851a-210277e4989f"
+=======
+        "5a83dac6-7dac-472d-9ec8-a52a6e449b7f"
+>>>>>>> master
     ],
     "filterType": "GMObject",
     "folderName": "objects",

@@ -1,8 +1,8 @@
 {
-    "id": "2ca7954d-58d8-4e55-92a5-4097a7c2fa93",
+    "id": "5a83dac6-7dac-472d-9ec8-a52a6e449b7f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "wall",
+    "name": "enemy",
     "eventList": [
         
     ],
@@ -22,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "dc5271da-c574-4df6-ad7b-ea2540aed99a",
+    "spriteId": "633b2e7a-84b2-4593-81fd-3a7c41c21c3b",
     "visible": true
 }
