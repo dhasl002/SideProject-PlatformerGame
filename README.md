@@ -1,1 +1,1 @@
-A fun side project among 3 friends. Attempting to make a platform using gamemaker studio.
+A fun side project among 3 friends. Attempting to make a platformer using gamemaker studio.
