@@ -8,34 +8,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+GameMaker must be installed to play the game.
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
+Once GameMaker Studio is [Installed](https://www.yoyogames.com/get), download the repository and open the .yyp file. The next step is to run the program from the IDE. 
 
-Say what the step will be
+Dirstribution may be improved if the game becomes better. 
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
