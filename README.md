@@ -1,6 +1,8 @@
 # Platformer Game Prototype
 
-A fun project developed among three friends. While the expectations for the final product were high, the lack of experience developing games discouraged the team. Unfortunately, I was the only experienced programmer which also contributed to the project ending. The experience still produced a prototype which can be viewed [here](https://www.youtube.com/watch?v=evs8kFAagmE)
+A fun project developed among three friends. While the expectations for the final product were high, the lack of experience developing games discouraged the team. Unfortunately, I was the only experienced programmer which also contributed to the project ending. The experience still produced a prototype which can be viewed.
+
+[Demonstration of Progress](https://www.youtube.com/watch?v=evs8kFAagmE)
 
 ## Getting Started
 
