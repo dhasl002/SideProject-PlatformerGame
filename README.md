@@ -6,8 +6,6 @@ A fun project developed among three friends. While the expectations for the fina
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
 GameMaker must be installed to play the game.
